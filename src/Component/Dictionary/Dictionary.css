@@ -1,0 +1,41 @@
+
+.formcon{
+    display: flex;
+    border: hidden;
+    justify-content: center;
+    padding-top: 10px;
+}
+.search{
+    border: 1px solid gray;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.p1{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 70px;
+    margin-top: 20px;
+    padding-top: 28px;
+}
+
+.p2{
+    text-align: center;
+    color: white;
+}
+
+.logodiv img{
+    width: 7%;
+    height: 70px;
+}
+
+.logodiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
